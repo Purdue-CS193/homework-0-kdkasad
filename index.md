@@ -1,3 +1,12 @@
+# Kian's First CS193 Homework
+
+Favorite things about CS193:
+
+- PSO is optional *(and online!)*.
+- It's only 1 hour/week.
+- I'm looking forward to resume/career information.
+- It covers tools I already know how to use.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
